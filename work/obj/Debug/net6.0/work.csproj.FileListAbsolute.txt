@@ -1,0 +1,15 @@
+D:\Itog\itog\work\bin\Debug\net6.0\work.exe
+D:\Itog\itog\work\bin\Debug\net6.0\work.deps.json
+D:\Itog\itog\work\bin\Debug\net6.0\work.runtimeconfig.json
+D:\Itog\itog\work\bin\Debug\net6.0\work.dll
+D:\Itog\itog\work\bin\Debug\net6.0\work.pdb
+D:\Itog\itog\work\obj\Debug\net6.0\work.csproj.AssemblyReference.cache
+D:\Itog\itog\work\obj\Debug\net6.0\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Itog\itog\work\obj\Debug\net6.0\work.AssemblyInfoInputs.cache
+D:\Itog\itog\work\obj\Debug\net6.0\work.AssemblyInfo.cs
+D:\Itog\itog\work\obj\Debug\net6.0\work.csproj.CoreCompileInputs.cache
+D:\Itog\itog\work\obj\Debug\net6.0\work.dll
+D:\Itog\itog\work\obj\Debug\net6.0\refint\work.dll
+D:\Itog\itog\work\obj\Debug\net6.0\work.pdb
+D:\Itog\itog\work\obj\Debug\net6.0\work.genruntimeconfig.cache
+D:\Itog\itog\work\obj\Debug\net6.0\ref\work.dll
